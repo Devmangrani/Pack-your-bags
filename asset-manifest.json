@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Devmangrani/pack-your-bags.git/static/css/main.10a2aefb.css",
+    "main.js": "/Devmangrani/pack-your-bags.git/static/js/main.e2021800.js",
+    "static/js/453.8fd4c29a.chunk.js": "/Devmangrani/pack-your-bags.git/static/js/453.8fd4c29a.chunk.js",
+    "index.html": "/Devmangrani/pack-your-bags.git/index.html",
+    "main.10a2aefb.css.map": "/Devmangrani/pack-your-bags.git/static/css/main.10a2aefb.css.map",
+    "main.e2021800.js.map": "/Devmangrani/pack-your-bags.git/static/js/main.e2021800.js.map",
+    "453.8fd4c29a.chunk.js.map": "/Devmangrani/pack-your-bags.git/static/js/453.8fd4c29a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2aefb.css",
+    "static/js/main.e2021800.js"
+  ]
+}
